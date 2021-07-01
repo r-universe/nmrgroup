@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nmrgroup/universe
 	shallow = true
 	branch = HEAD
+[submodule "here"]
+	path = here
+	url = https://github.com/r-lib/here
+	shallow = true
+	registered = true
+[submodule "renv"]
+	path = renv
+	url = https://github.com/rstudio/renv/
+	shallow = true
+	registered = true
+[submodule "coreStatsNMR"]
+	path = coreStatsNMR
+	url = https://gitlab.com/NMRgroup/corestatsnmr
+	shallow = true
+	registered = true
+[submodule "paletteNMR"]
+	path = paletteNMR
+	url = https://gitlab.com/NMRgroup/paletteNMR
+	shallow = true
+	registered = true

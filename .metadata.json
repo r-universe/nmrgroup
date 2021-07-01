@@ -1,0 +1,16 @@
+[
+  {
+    "package": "here",
+    "oncran": true
+  },
+  {
+    "package": "renv",
+    "oncran": true
+  },
+  {
+    "package": "coreStatsNMR"
+  },
+  {
+    "package": "paletteNMR"
+  }
+]
