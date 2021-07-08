@@ -13,6 +13,16 @@
 	url = https://github.com/rstudio/renv/
 	shallow = true
 	registered = true
+[submodule "janitor"]
+	path = janitor
+	url = https://github.com/sfirke/janitor
+	shallow = true
+	registered = true
+[submodule "skimr"]
+	path = skimr
+	url = https://github.com/ropensci/skimr
+	shallow = true
+	registered = true
 [submodule "coreStatsNMR"]
 	path = coreStatsNMR
 	url = https://gitlab.com/NMRgroup/corestatsnmr

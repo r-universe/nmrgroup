@@ -8,6 +8,14 @@
     "oncran": true
   },
   {
+    "package": "janitor",
+    "oncran": true
+  },
+  {
+    "package": "skimr",
+    "oncran": true
+  },
+  {
     "package": "coreStatsNMR"
   },
   {
