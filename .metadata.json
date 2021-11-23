@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "qualtRics",
+    "oncran": true
+  },
+  {
     "package": "coreStatsNMR"
   },
   {

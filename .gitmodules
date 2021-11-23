@@ -23,6 +23,11 @@
 	url = https://github.com/ropensci/skimr
 	shallow = true
 	registered = true
+[submodule "qualtRics"]
+	path = qualtRics
+	url = https://github.com/ropensci/qualtRics
+	shallow = true
+	registered = true
 [submodule "coreStatsNMR"]
 	path = coreStatsNMR
 	url = https://gitlab.com/NMRgroup/corestatsnmr
