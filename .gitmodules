@@ -10,7 +10,7 @@
 	registered = true
 [submodule "renv"]
 	path = renv
-	url = https://github.com/rstudio/renv/
+	url = https://github.com/rstudio/renv
 	shallow = true
 	registered = true
 [submodule "janitor"]
