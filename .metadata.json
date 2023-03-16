@@ -1,23 +1,18 @@
 [
   {
-    "package": "here",
-    "oncran": true
+    "package": "here"
   },
   {
-    "package": "renv",
-    "oncran": true
+    "package": "renv"
   },
   {
-    "package": "janitor",
-    "oncran": true
+    "package": "janitor"
   },
   {
-    "package": "skimr",
-    "oncran": true
+    "package": "skimr"
   },
   {
-    "package": "qualtRics",
-    "oncran": true
+    "package": "qualtRics"
   },
   {
     "package": "coreStatsNMR"
