@@ -38,3 +38,8 @@
 	url = https://gitlab.com/NMRgroup/paletteNMR
 	shallow = true
 	registered = true
+[submodule "pkgload"]
+	path = pkgload
+	url = https://github.com/r-lib/pkgload
+	shallow = true
+	registered = false
