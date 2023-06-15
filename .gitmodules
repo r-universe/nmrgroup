@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nmrgroup/universe
+	url = https://github.com/nmrgroup/nmrgroup.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "here"]
@@ -18,16 +18,6 @@
 	url = https://github.com/sfirke/janitor
 	shallow = true
 	registered = true
-[submodule "skimr"]
-	path = skimr
-	url = https://github.com/ropensci/skimr
-	shallow = true
-	registered = true
-[submodule "qualtRics"]
-	path = qualtRics
-	url = https://github.com/ropensci/qualtRics
-	shallow = true
-	registered = true
 [submodule "coreStatsNMR"]
 	path = coreStatsNMR
 	url = https://gitlab.com/NMRgroup/corestatsnmr
@@ -36,5 +26,30 @@
 [submodule "paletteNMR"]
 	path = paletteNMR
 	url = https://gitlab.com/NMRgroup/paletteNMR
+	shallow = true
+	registered = true
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	shallow = true
+	registered = true
+[submodule "fastverse"]
+	path = fastverse
+	url = https://github.com/fastverse/fastverse
+	shallow = true
+	registered = true
+[submodule "tidytable"]
+	path = tidytable
+	url = https://github.com/markfairbanks/tidytable
+	shallow = true
+	registered = true
+[submodule "dataverifyr"]
+	path = dataverifyr
+	url = https://github.com/DavZim/dataverifyr
+	shallow = true
+	registered = true
+[submodule "qualtRics"]
+	path = qualtRics
+	url = https://github.com/ropensci/qualtRics
 	shallow = true
 	registered = true
