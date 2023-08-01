@@ -2,33 +2,33 @@
 	path = .registry
 	url = https://github.com/nmrgroup/nmrgroup.r-universe.dev
 	branch = HEAD
-[submodule "here"]
-	path = here
-	url = https://github.com/r-lib/here
-[submodule "renv"]
-	path = renv
-	url = https://github.com/rstudio/renv
-[submodule "janitor"]
-	path = janitor
-	url = https://github.com/sfirke/janitor
 [submodule "coreStatsNMR"]
 	path = coreStatsNMR
 	url = https://gitlab.com/NMRgroup/corestatsnmr
-[submodule "paletteNMR"]
-	path = paletteNMR
-	url = https://gitlab.com/NMRgroup/paletteNMR
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-[submodule "fastverse"]
-	path = fastverse
-	url = https://github.com/fastverse/fastverse
-[submodule "tidytable"]
-	path = tidytable
-	url = https://github.com/markfairbanks/tidytable
 [submodule "dataverifyr"]
 	path = dataverifyr
 	url = https://github.com/DavZim/dataverifyr
+[submodule "fastverse"]
+	path = fastverse
+	url = https://github.com/fastverse/fastverse
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+[submodule "here"]
+	path = here
+	url = https://github.com/r-lib/here
+[submodule "janitor"]
+	path = janitor
+	url = https://github.com/sfirke/janitor
+[submodule "paletteNMR"]
+	path = paletteNMR
+	url = https://gitlab.com/NMRgroup/paletteNMR
 [submodule "qualtRics"]
 	path = qualtRics
 	url = https://github.com/ropensci/qualtRics
+[submodule "renv"]
+	path = renv
+	url = https://github.com/rstudio/renv
+[submodule "tidytable"]
+	path = tidytable
+	url = https://github.com/markfairbanks/tidytable
